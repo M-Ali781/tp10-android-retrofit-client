@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RestClient</string>
+    <string name="title_comptes">Gestion des Comptes</string>
+    <string name="json">JSON</string>
+    <string name="xml">XML</string>
+    <string name="add_compte">Ajouter un compte</string>
+    <string name="edit_compte">Modifier un compte</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="solde_hint">Solde</string>
+    <string name="type_courant">COURANT</string>
+    <string name="type_epargne">EPARGNE</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="confirm_title">Confirmation</string>
+    <string name="confirm_delete_msg">Voulez-vous vraiment supprimer ce compte ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="compte_added">Compte ajouté avec succès</string>
+    <string name="compte_updated">Compte modifié avec succès</string>
+    <string name="compte_deleted">Compte supprimé avec succès</string>
+</resources>
+
